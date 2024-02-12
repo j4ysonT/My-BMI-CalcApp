@@ -1,0 +1,18 @@
+h2{
+  text-align: center;
+}
+
+.calculate-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+.calculate-button:hover {
+  background-color: #0056b3;
+}
